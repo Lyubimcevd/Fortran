@@ -1,0 +1,9 @@
+D:\Project\Fortran\CBODBL7P\CBODBL7P\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\CBODBL7P\CBODBL7P\obj\x86\Debug\CBODBL7P.Form1.resources
+D:\Project\Fortran\CBODBL7P\CBODBL7P\obj\x86\Debug\CBODBL7P.Properties.Resources.resources
+D:\Project\Fortran\CBODBL7P\CBODBL7P\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\CBODBL7P\CBODBL7P\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\CBODBL7P\CBODBL7P\bin\Debug\CBODBL7P.exe
+D:\Project\Fortran\CBODBL7P\CBODBL7P\bin\Debug\CBODBL7P.pdb
+D:\Project\Fortran\CBODBL7P\CBODBL7P\obj\x86\Debug\CBODBL7P.exe
+D:\Project\Fortran\CBODBL7P\CBODBL7P\obj\x86\Debug\CBODBL7P.pdb

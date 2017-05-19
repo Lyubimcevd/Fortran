@@ -1,0 +1,11 @@
+D:\Project\Fortran\DPPZP\DPPZP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\DPPZP\DPPZP\obj\x86\Debug\DPPZP.Form1.resources
+D:\Project\Fortran\DPPZP\DPPZP\obj\x86\Debug\DPPZP.Properties.Resources.resources
+D:\Project\Fortran\DPPZP\DPPZP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\DPPZP\DPPZP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\DPPZP\DPPZP\bin\Debug\DPPZP.exe
+D:\Project\Fortran\DPPZP\DPPZP\bin\Debug\DPPZP.pdb
+D:\Project\Fortran\DPPZP\DPPZP\obj\x86\Debug\DPPZP.exe
+D:\Project\Fortran\DPPZP\DPPZP\obj\x86\Debug\DPPZP.pdb
+D:\Project\Fortran\Интерфейс на фоксе\DPPZP\DPPZP\obj\x86\Debug\DPPZP.exe
+D:\Project\Fortran\Интерфейс на фоксе\DPPZP\DPPZP\obj\x86\Debug\DPPZP.pdb

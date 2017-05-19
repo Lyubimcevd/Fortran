@@ -1,0 +1,9 @@
+D:\Project\Fortran\DPPZONV7\DPPZONV7\bin\Debug\DPPZONV7.exe
+D:\Project\Fortran\DPPZONV7\DPPZONV7\bin\Debug\DPPZONV7.pdb
+D:\Project\Fortran\DPPZONV7\DPPZONV7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\DPPZONV7\DPPZONV7\obj\x86\Debug\DPPZONV7.Form1.resources
+D:\Project\Fortran\DPPZONV7\DPPZONV7\obj\x86\Debug\DPPZONV7.Properties.Resources.resources
+D:\Project\Fortran\DPPZONV7\DPPZONV7\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\DPPZONV7\DPPZONV7\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\DPPZONV7\DPPZONV7\obj\x86\Debug\DPPZONV7.exe
+D:\Project\Fortran\DPPZONV7\DPPZONV7\obj\x86\Debug\DPPZONV7.pdb

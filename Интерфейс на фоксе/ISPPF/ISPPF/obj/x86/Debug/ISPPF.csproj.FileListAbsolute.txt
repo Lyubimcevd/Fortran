@@ -1,0 +1,11 @@
+D:\Project\Fortran\ISPPF\ISPPF\bin\Debug\ISPPF.exe
+D:\Project\Fortran\ISPPF\ISPPF\bin\Debug\ISPPF.pdb
+D:\Project\Fortran\ISPPF\ISPPF\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\ISPPF\ISPPF\obj\x86\Debug\ISPPF.Form1.resources
+D:\Project\Fortran\ISPPF\ISPPF\obj\x86\Debug\ISPPF.Properties.Resources.resources
+D:\Project\Fortran\ISPPF\ISPPF\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\ISPPF\ISPPF\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\ISPPF\ISPPF\obj\x86\Debug\ISPPF.exe
+D:\Project\Fortran\ISPPF\ISPPF\obj\x86\Debug\ISPPF.pdb
+D:\Project\Fortran\Интерфейс на фоксе\ISPPF\ISPPF\obj\x86\Debug\ISPPF.exe
+D:\Project\Fortran\Интерфейс на фоксе\ISPPF\ISPPF\obj\x86\Debug\ISPPF.pdb

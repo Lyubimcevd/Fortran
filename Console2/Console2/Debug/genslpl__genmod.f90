@@ -1,0 +1,8 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Tue Nov 08 15:41:31 2016
+        MODULE GENSLPL__genmod
+          INTERFACE 
+            SUBROUTINE GENSLPL(W)
+              REAL(KIND=4) :: W
+            END SUBROUTINE GENSLPL
+          END INTERFACE 
+        END MODULE GENSLPL__genmod

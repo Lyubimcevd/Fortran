@@ -1,0 +1,9 @@
+D:\Project\Fortran\FPORZC7R\FPORZC7R\bin\Debug\FPORZC7R.exe
+D:\Project\Fortran\FPORZC7R\FPORZC7R\bin\Debug\FPORZC7R.pdb
+D:\Project\Fortran\FPORZC7R\FPORZC7R\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\FPORZC7R\FPORZC7R\obj\x86\Debug\FPORZC7R.Form1.resources
+D:\Project\Fortran\FPORZC7R\FPORZC7R\obj\x86\Debug\FPORZC7R.Properties.Resources.resources
+D:\Project\Fortran\FPORZC7R\FPORZC7R\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\FPORZC7R\FPORZC7R\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\FPORZC7R\FPORZC7R\obj\x86\Debug\FPORZC7R.exe
+D:\Project\Fortran\FPORZC7R\FPORZC7R\obj\x86\Debug\FPORZC7R.pdb

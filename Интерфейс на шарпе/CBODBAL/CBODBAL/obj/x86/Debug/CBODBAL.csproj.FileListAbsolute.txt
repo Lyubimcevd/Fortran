@@ -1,0 +1,11 @@
+D:\Project\Fortran\CBODBAL\CBODBAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\CBODBAL\CBODBAL\obj\x86\Debug\CBODBAL.Form1.resources
+D:\Project\Fortran\CBODBAL\CBODBAL\obj\x86\Debug\CBODBAL.Properties.Resources.resources
+D:\Project\Fortran\CBODBAL\CBODBAL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\CBODBAL\CBODBAL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\CBODBAL\CBODBAL\bin\Debug\CBODBAL.exe
+D:\Project\Fortran\CBODBAL\CBODBAL\bin\Debug\CBODBAL.pdb
+D:\Project\Fortran\CBODBAL\CBODBAL\obj\x86\Debug\CBODBAL.exe
+D:\Project\Fortran\CBODBAL\CBODBAL\obj\x86\Debug\CBODBAL.pdb
+D:\Project\Fortran\Интерфейс на шарпе\CBODBAL\CBODBAL\obj\x86\Debug\CBODBAL.exe
+D:\Project\Fortran\Интерфейс на шарпе\CBODBAL\CBODBAL\obj\x86\Debug\CBODBAL.pdb

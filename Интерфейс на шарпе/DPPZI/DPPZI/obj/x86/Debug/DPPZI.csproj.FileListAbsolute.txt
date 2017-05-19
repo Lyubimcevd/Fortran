@@ -1,0 +1,9 @@
+D:\Project\Fortran\DPPZI\DPPZI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\DPPZI\DPPZI\obj\x86\Debug\DPPZI.Form1.resources
+D:\Project\Fortran\DPPZI\DPPZI\obj\x86\Debug\DPPZI.Properties.Resources.resources
+D:\Project\Fortran\DPPZI\DPPZI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\DPPZI\DPPZI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\DPPZI\DPPZI\bin\Debug\DPPZI.exe
+D:\Project\Fortran\DPPZI\DPPZI\bin\Debug\DPPZI.pdb
+D:\Project\Fortran\DPPZI\DPPZI\obj\x86\Debug\DPPZI.exe
+D:\Project\Fortran\DPPZI\DPPZI\obj\x86\Debug\DPPZI.pdb

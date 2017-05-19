@@ -1,0 +1,11 @@
+D:\Project\Fortran\DPPZI7\DPPZI7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Fortran\DPPZI7\DPPZI7\obj\x86\Debug\DPPZI7.Form1.resources
+D:\Project\Fortran\DPPZI7\DPPZI7\obj\x86\Debug\DPPZI7.Properties.Resources.resources
+D:\Project\Fortran\DPPZI7\DPPZI7\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Fortran\DPPZI7\DPPZI7\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Fortran\DPPZI7\DPPZI7\bin\Debug\DPPZI7.exe
+D:\Project\Fortran\DPPZI7\DPPZI7\bin\Debug\DPPZI7.pdb
+D:\Project\Fortran\DPPZI7\DPPZI7\obj\x86\Debug\DPPZI7.exe
+D:\Project\Fortran\DPPZI7\DPPZI7\obj\x86\Debug\DPPZI7.pdb
+D:\Project\Fortran\Интерфейс на фоксе\DPPZI7\DPPZI7\obj\x86\Debug\DPPZI7.exe
+D:\Project\Fortran\Интерфейс на фоксе\DPPZI7\DPPZI7\obj\x86\Debug\DPPZI7.pdb
