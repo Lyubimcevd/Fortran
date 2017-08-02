@@ -1,9 +1,8 @@
       INTEGER*2 A(26,200),S(2,200),P(2,200),TQ(6,500),TQC(4,500),NXZ(10,
      14)                                                                
       INTEGER QZ(4,500),IW(200)
-      open(44,file='F:\ASUIPW\u.dat',form='unformatted')
-      open(1,file='F:\ASUIPW\portfel.dat',form='unformatte
-     1d')
+      open(44,file='u.dat',form='unformatted')
+      open(1,file='portfel.dat',form='unformatted')
       open(4,file='portfel.txt')
       KOL=0                                                             
       READ (44) NW,NU                                                   

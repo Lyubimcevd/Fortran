@@ -2,8 +2,8 @@
      14),ZG(100,60),KDP(180),U(20,100)                                  
       INTEGER QZ(4,500),IW(200),F1(100,3),UW(2,200)  
       open(1,file='plan.txt')                                           
-      open(44,file='F:\ASUIPW\u.dat',form='unformatted')
-      open(4,file='F:\ASUIPW\plan.dat',form='unformatted')
+      open(44,file='u.dat',form='unformatted')
+      open(4,file='plan.dat',form='unformatted')
       READ(44) NW,NU                                                     
       READ(44) ((UW(I,J),I=1,2),J=1,NW),((U(I,J),I=1,20),J=1,NU) 
       NUC = 0

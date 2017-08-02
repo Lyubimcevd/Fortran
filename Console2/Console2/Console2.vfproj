@@ -27,9 +27,5 @@
 		<Filter Name="Header Files" Filter="fi;fd"/>
 		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"/>
 		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
-		<File RelativePath=".\DVEDR.FOR"/>
-		<File RelativePath=".\GENSLPL.FOR"/>
-		<File RelativePath=".\PRIOR7.FOR"/>
-		<File RelativePath=".\RASPLEK7.FOR"/>
-		<File RelativePath=".\RUSCONSOLE.for"/></Filter></Files>
+		<File RelativePath="..\..\..\..\Почта\Конвертер PLAN\Converter_for_Plan.for"/></Filter></Files>
 	<Globals/></VisualStudioProject>
